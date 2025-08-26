@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Corporate Clinic</title>
+  </head>
+  <body>
+    <h1>ようこそ、プリズム社の診断ツールへ！</h1>
+    <p>このページは正常に表示されています。</p>
+  </body>
+</html>
